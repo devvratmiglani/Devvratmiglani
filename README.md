@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Devvratmiglani
+- 👋 Hi, I’m @devvratmiglani
 - 👀 I’m interested in programming C,CPP, Python, Java etc
 - 🌱 I’m currently learning Artificial intelligence and Machine learning
 - 💞️ I’m looking to collaborate on beginner projects
