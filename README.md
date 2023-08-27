@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devvratmiglani
-- 👀 I’m interested in programming C,CPP, Python, Java etc
+- 👀 I’m interested in programming: Programmer | WebScrapper | WebDeveloper | Computer Nerd | CSE ∪ AI&ML
 - 🌱 I’m currently learning Artificial intelligence and Machine learning
-- 💞️ I’m looking to collaborate on beginner projects
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me : miglanida@rknec.edu
 
 <!---
