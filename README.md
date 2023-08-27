@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @devvratmiglani
-- 👀 I’m interested in programming: Programmer | WebScrapper | WebDeveloper | Computer Nerd | CSE ∪ AI&ML
+- 👋 Hi, I’m @devvratmiglani, a computer nerd
+- 👀 I’m interested in Programming | WebScrapping | WebDeveloping
 - 🌱 I’m currently learning Artificial intelligence and Machine learning
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me : miglanida@rknec.edu
