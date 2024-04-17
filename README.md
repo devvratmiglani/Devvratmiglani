@@ -1,5 +1,5 @@
 # 💫 Hello! Future Connoisseur:
-- 👋 Hi, I’m @devvratmiglani, a computer nerd<br>- 👀 I’m interested in Programming | WebScrapping | WebDeveloping and much much more!<br>- 🌱 I’m currently learning Artificial intelligence and Machine learning<br>-
+- 👋 Hi, I’m @devvratmiglani, a computer nerd<br>- 👀 I’m interested in Programming | WebScrapping | WebDeveloping and much much more!<br>- 🌱 I’m currently learning Artificial intelligence and Machine learning<br>
 
 
 ## 🌐 Socials:
