@@ -16,8 +16,8 @@
 # 📊 GitHub Stats:
 <p align="center"> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=devvratmiglani&theme=dark&hide_border=false" height=200px><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devvratmiglani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height=200px>
-<img src="https://github-readme-stats.vercel.app/api?username=devvratmiglani&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height=200px><br/></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devvratmiglani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height=190px>
+<img src="https://github-readme-stats.vercel.app/api?username=devvratmiglani&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height=190px><br/></p>
 
 
 
