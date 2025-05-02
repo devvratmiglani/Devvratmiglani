@@ -1,4 +1,5 @@
 # 💫 Hi, Future Connoisseur!
+- ❤️ You really came this far, so sweet of you, thanks, I have made some mistakes which needs fixing me (as a developer) <br>-
 - 👋 Hi, I’m @devvratmiglani, a computer nerd<br>- 👀 I’m interested in Programming | WebScrapping | WebDeveloping and much much more!<br>- 🌱 I’m currently learning Artificial intelligence and Machine learning<br>
 
 
